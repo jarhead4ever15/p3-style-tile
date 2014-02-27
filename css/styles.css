@@ -1,11 +1,46 @@
 /* Set Your Own Margin & Padding */
 h2, h3, p {
-	margin: 0;
+	margin: 10px;
 }
 
 /* Layout for Style Tile*/
 section {
 	margin: 20px 0;
+}
+
+/* Fonts */
+h1 {
+	font-family: 'Archivo Black', sans-serif;
+	color: #C10027;
+}
+
+h2 {
+	font-family: 'Archivo Black', sans-serif;
+	color: #FC9F1D;
+}
+
+h3 {
+	font-family: 'Archivo Black', sans-serif;
+	color: #C10027;
+}
+
+
+p {
+	font-family: 'Hammersmith One', sans-serif;
+	color: #000;
+}
+
+
+.logo {
+	width: 100px;
+}
+.fedex,
+.ibm,
+.twitter {
+	width: 100px;
+	height: 81px;
+	margin-bottom: 10px;
+
 }
 
 .color-1,
@@ -29,7 +64,7 @@ section {
 
 /* Colors and Textures */
 .color-1 {
-	background: red;
+	background: #0CC2F5;
 }
 
 .color-2 {
@@ -41,7 +76,7 @@ section {
 }
 
 .pattern-1 {
-	background: ;
+	background: url("../img/denim.png");
 }
 
 .pattern-2 {
