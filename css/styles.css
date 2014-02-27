@@ -8,10 +8,13 @@ section {
 	margin: 20px 0;
 }
 
+
+
 /* Fonts */
 h1 {
 	font-family: 'Archivo Black', sans-serif;
 	color: #C10027;
+	margin-top: 0;
 }
 
 h2 {
@@ -21,13 +24,14 @@ h2 {
 
 h3 {
 	font-family: 'Archivo Black', sans-serif;
-	color: #C10027;
+	color: #765A3C;
 }
 
 
 p {
 	font-family: 'Hammersmith One', sans-serif;
 	color: #000;
+	line-height: 25px;
 }
 
 
@@ -68,11 +72,11 @@ p {
 }
 
 .color-2 {
-	background: blue;
+	background: #C10027;
 }
 
 .color-3 {
-	background: orange;
+	background:  #FC9F1D;
 }
 
 .pattern-1 {
@@ -86,3 +90,5 @@ p {
 .pattern-3 {
 	background: ;
 }
+
+
